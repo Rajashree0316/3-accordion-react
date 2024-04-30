@@ -1,4 +1,4 @@
-#Netlify: https://66309de051256ea1d9a30ee3--3accordion-react.netlify.app/
+#Netlify: https://3accordion-react.netlify.app/
 
 # Getting Started with Create React App
 
