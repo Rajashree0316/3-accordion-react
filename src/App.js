@@ -3,7 +3,7 @@ import data from './components/data';
 import SingleQuestion from './components/Question';
 
 const App = () => {
-  const [questions, setQuestions] = useState(data);
+  const [questions] = useState(data);
   return (
     <main>
       <div className='container'>
